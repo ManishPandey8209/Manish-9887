@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Manish Kumar Pandey
-- 👀 I’m interested in Software developer, Data Analytics and Data science
-- 🌱 I’m currently learning  Machine Learning and Deep Learning Concepts
+- 👋 Hi, I’m Manish Kumar Pandey.
+- 👀 I’m interested in Software developer, Data Analytics and Data science.
+- 🌱 I’m currently learning  Machine Learning and Deep Learning Concepts.
 - 💞️ I’m looking to collaborate on Developing and Analytics.
-- 📫 How to reach me  on Manish.bn98@gmail.com
+- 📫 Reach me  on Manish.bn98@gmail.com.
 
 <!---
 Manish-9887/Manish-9887 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
