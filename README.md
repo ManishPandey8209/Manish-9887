@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manish Kumar Pandey.
 - 👀 I’m interested in Software developement, Data Analytics and Data science.
-- 🌱 I’m currently learning  Machine Learning and Deep Learning Concepts.
+- 🌱 I’m currently learning  Machine Learning Concepts.
 - 💞️ I’m looking to collaborate on Developing and Analytics.
 - 📫 Reach me  on Manish.bn98@gmail.com.
 
