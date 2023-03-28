@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Manish Kumar Pandey.
-- 👀 I’m interested in Software developement, Data Analytics and Data science.
-- 🌱 I’m currently learning  Machine Learning Concepts.
-- 💞️ I’m looking to collaborate on Developing and Analytics.
+- 👋 Hi, I’m Manish Kumar Pandey. I am in final year in B. Tech in Computer Science and Enginnering with specialization
+- in Big Data Analytics. 
+- 👀 I’m interested in Software developement, Data Analytics and Data science. I am aspiring Data scientist.
+- 🌱 I’m currently learning  Machine Learning Concepts and basic data science skill.
+- 💞️ I’m looking to collaborate on Analytics and develop my analytical skill.
 - 📫 Reach me  on Manish.bn98@gmail.com.
 
 <!---
