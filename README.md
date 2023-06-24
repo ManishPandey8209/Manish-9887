@@ -1,6 +1,6 @@
 - **👋 Hi, I’m Manish Kumar Pandey.**
 
-- 
+
 -  I am final year student in B.Tech in Computer Science and Enginnering with specialization in Big Data Analytics. 
 - 👀 I’m interested in Software developement, Data Analytics and Data science. I am aspiring Data scientist.
 - 🌱 I’m currently learning  Machine Learning Concepts and basic data science skill.
